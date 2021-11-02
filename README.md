@@ -14,3 +14,6 @@ Follow the instructions to submit your Challenge for review.
 
 Initial review:
 - search engine optimization link does not reposition
+
+Change Log
+- id created for #search-engine-optimization to reference.
