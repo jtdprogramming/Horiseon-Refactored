@@ -1,8 +1,9 @@
 # Horiseon-Refactored
 
-Author: James D. 
-
-
+## Goal
+```
+Refactor code to meet accessibility standards per the User Story and Acceptance Criteria
+```
 ## User Story
 
 ```
@@ -28,13 +29,14 @@ THEN I find a concise, descriptive title
 ```
 
 
-Goal: Refactor the code to meet accessibility standards.
-
-Change Log
+### Change Log
 - comments added for refactored code and general clarity
 - title changed
 - replaced div with header element
 - replaced div with nav element
+- replaced div with appropriate section element
 - id created for #search-engine-optimization to reference
-*add alt to imgs
+- added alt to image elements
+- 
+
 *heading attributes in order
