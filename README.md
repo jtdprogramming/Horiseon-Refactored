@@ -1,16 +1,8 @@
 # Horiseon-Refactored
 
-How to Complete the Challenge
-Follow these steps to complete the challenge:
+Author: James D. 
 
-Clone your starter code.
 
-Refactor the code to meet the Acceptance Criteria.
-
-Make sure your work meets the full list of grading requirements.
-
-Follow the instructions to submit your Challenge for review.
-===
 ## User Story
 
 ```
@@ -34,12 +26,11 @@ THEN I find that they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-===
 
 
-Initial review:
-- search engine optimization link does not reposition
+Goal: Refactor the code to meet accessibility standards.
 
 Change Log
+- comment added for clarity
 - id created for #search-engine-optimization to reference.
-- header element 
+- header element
