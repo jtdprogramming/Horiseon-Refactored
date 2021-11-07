@@ -1,12 +1,14 @@
 # Horiseon-Refactored
 
+![Horiseon](assets\images\horiseon-screencap.PNG)
+
 ## Table of Contents
   - [About](#about)
   - [Task List](#task-list)
   - [Change Log](#change-log)
 ## About
 
-Take existing code and refactor it to either meet a certain set of standards. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities and/or socio-economic restrictions have access to their website. Accessible websites are better optimized for search engines, and help companies avoid litigation.
+Take existing code and refactor it to either meet web accessibility standards. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities and/or socio-economic restrictions have access to their website. Accessible websites are better optimized for search engines, and help companies avoid litigation.
 * * *
 ## Task List
 ```
