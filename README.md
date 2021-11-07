@@ -41,3 +41,5 @@ THEN I find a concise, descriptive title
 - replaced div with section element
 - id created for #search-engine-optimization to reference
 - added alt to image elements and cleaned up img elements
+- restructured style.css for clarity
+* consolidate repetitive css properties and attributes
