@@ -34,12 +34,10 @@ THEN I find a concise, descriptive title
 
 
 ### Change Log
-- comments added for general clarity
+- comments added to index.html and style.css for general clarity
 - title element altered for clarity
-- replaced div with header element
-- replaced div with nav element
-- replaced div with section element
+- replaced div with respective header, nav, and section elements
 - id created for #search-engine-optimization to reference
 - added alt to image elements and cleaned up img elements
-- restructured style.css for clarity
-* consolidate repetitive css properties and attributes
+- restructured style.css to follow the semantic structure of index.html
+- consolidated repetitive css properties
