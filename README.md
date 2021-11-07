@@ -31,6 +31,10 @@ THEN I find a concise, descriptive title
 Goal: Refactor the code to meet accessibility standards.
 
 Change Log
-- comment added for clarity
-- id created for #search-engine-optimization to reference.
-- header element
+- comments added for refactored code and general clarity
+- title changed
+- replaced div with header element
+- replaced div with nav element
+- id created for #search-engine-optimization to reference
+*add alt to imgs
+*heading attributes in order
