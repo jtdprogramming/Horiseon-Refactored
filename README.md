@@ -1,16 +1,14 @@
 # Horiseon-Refactored
 
+## Table of Contents
+  - [About](#about)
+  - [Task List](#task-list)
+  - [Change Log](#change-log)
 ## About
-*Challenge 1: HTML CSS Git Challenge: Code Refactor*
-*James D.*
 
-
-
-## Goal
-
-*Refactor code to meet accessibility standards and to improve Search Engine Optimization.*
-
-### Task List
+Take existing code and refactor it to either meet a certain set of standards. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities and/or socio-economic restrictions have access to their website. Accessible websites are better optimized for search engines, and help companies avoid litigation.
+* * *
+## Task List
 ```
 - [x] refactor using semantic elements
 - [x] html to follow logical structure
@@ -19,9 +17,9 @@
 - [x] add concise, descriptive title
 - [x] restructure stylesheet to follow semantic structure of html
 - [x] consolidate repetitive properties
-- [x] clean up and organize code where applicable
+- [x] clean up and organize code
 ```
-### Change Log
+## Change Log
 ```
 - comments added to index.html and style.css for general clarity
 - title element altered for clarity
