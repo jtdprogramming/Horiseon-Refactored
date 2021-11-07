@@ -1,6 +1,6 @@
 # Horiseon-Refactored
 
-![Horiseon](assets\images\horiseon-screencap.PNG)
+![Horiseon](https://github.com/jtdprogramming/Horiseon-Refactored/blob/f7b26e16b3152ce92ee339dea55641811695826f/assets/images/horiseon-screencap.PNG)
 
 ## Table of Contents
   - [About](#about)
