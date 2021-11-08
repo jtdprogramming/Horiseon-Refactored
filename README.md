@@ -1,11 +1,13 @@
 # Horiseon-Refactored
+[Horiseon](https://jtdprogramming.github.io/Horiseon-Refactored/)
 
 ![Horiseon](https://github.com/jtdprogramming/Horiseon-Refactored/blob/f7b26e16b3152ce92ee339dea55641811695826f/assets/images/horiseon-screencap.PNG)
-
+* * *
 ## Table of Contents
   - [About](#about)
   - [Task List](#task-list)
   - [Change Log](#change-log)
+* * *
 ## About
 
 Take existing code and refactor it to either meet web accessibility standards. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities and/or socio-economic restrictions have access to their website. Accessible websites are better optimized for search engines, and help companies avoid litigation.
@@ -21,6 +23,7 @@ Take existing code and refactor it to either meet web accessibility standards. W
 - [x] consolidate repetitive properties
 - [x] clean up and organize code
 ```
+* * *
 ## Change Log
 ```
 - comments added to index.html and style.css for general clarity
@@ -30,4 +33,5 @@ Take existing code and refactor it to either meet web accessibility standards. W
 - added alt to image elements and cleaned up img elements
 - restructured style.css to follow the semantic structure of index.html
 - consolidated repetitive css properties
+- README.md updated
 ```
