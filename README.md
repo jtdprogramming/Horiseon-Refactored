@@ -10,7 +10,7 @@
 * * *
 ## About
 
-Take existing code and refactor it to either meet web accessibility standards. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities and/or socio-economic restrictions have access to their website. Accessible websites are better optimized for search engines, and help companies avoid litigation.
+The challenge is to take existing code and refactor it to meet web accessibility standards and client acceptance criteria outlined in the task list. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities and/or socio-economic restrictions have access to their website. Accessible websites are better optimized for search engines, and help companies avoid litigation.
 * * *
 ## Task List
 ```
